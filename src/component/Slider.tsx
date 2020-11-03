@@ -17,7 +17,7 @@ export default function Slider() {
                         coconut milk to strawberry vanilla, chocolate vanilla or unique banana chocolate.
                     </div>
                     <div className="vaoShop">
-                       <a href="#">Shop Now</a>
+                       <a href="index.tsx">Shop Now</a>
                     </div>
                 </div>
             </div>
