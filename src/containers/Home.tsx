@@ -45,6 +45,8 @@ const listItem: sanPham[] = [
     },
 
 ]
+
+
 // ].filter((item) => {
 //     return item.giaBan > 50000;
 // })
